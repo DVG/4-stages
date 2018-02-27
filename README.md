@@ -1,5 +1,5 @@
 ```gherkin
-eature: Shipping Options
+Feature: Shipping Options
 
   We have an array of shipping options available on Fake Amazon. The most basic
   is Standard Shipping, which ships via USPS parcel post, and is expected to
